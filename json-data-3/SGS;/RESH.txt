@@ -1,0 +1,1 @@
+[{"instructor":"Valera, Pamela","term":"Fall  2021","code":"SGS;:RESH:0730J:033","courseName":"PhD Seminar","indexNum":"16247","note":"Multiple Sections","enrolled":23,"responses":11,"scores":[0.0,0.0,1.0,3.0,7.0,0.0,4.6,4.6,0.0,4.6,0.0,0.0,4.0,2.0,5.0,0.0,4.1,4.1,0.0,4.1]}]

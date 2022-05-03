@@ -1,0 +1,1 @@
+[{"instructor":"Krause, Kristen","term":"Fall  2021","code":"SGS:HBSP:0700J:030","courseName":"Advances in PH Theories","indexNum":"16222","note":"Multiple Sections","enrolled":3,"responses":1,"scores":[0.0,0.0,0.0,0.0,1.0,0.0,5.0,5.0,0.0,5.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,5.0,0.0,5.0]}]
