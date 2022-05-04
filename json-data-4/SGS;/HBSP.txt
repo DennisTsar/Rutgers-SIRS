@@ -1,0 +1,1 @@
+[{"instructor":"Grafova, Irina","term":"Fall  2021","code":"SGS;:HBSP:0724J:030","courseName":"Pop Health & Public Policy","indexNum":"16227","note":"Multiple Sections","enrolled":4,"responses":1,"scores":[0.0,0.0,0.0,0.0,1.0,0.0,5.0,5.0,0.0,5.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,5.0,0.0,5.0],"extraQs":[]}]
